@@ -14,4 +14,6 @@ British Airways (BA) is the flag carrier airline of the United Kingdom (UK). Eve
 - Method: Use Python and libraries such as BeautifulSoup and Requests to scrape review data.
 - Data Collected: Customer reviews, ratings for various aspects (e.g., cabin staff service, food and beverages), sentiment scores, and other relevant information.
 
-#### `3. `
+#### `3. Data Cleaning and Preparation`
+- **Handling Missing Values:** Deal with any missing or incomplete data and utilizing only verified customers.
+- **Data Transformation:** Convert data types where necessary, tokenize text data, and prepare the data for analysis.
