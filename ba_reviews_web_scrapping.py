@@ -58,7 +58,7 @@ def extract_review_info(review):
     review_dict["route"] = extract_sibling_text_or_default(review.find("td", class_="route"))
     review_dict["cabin staff service"] = extract_ratings(review.find("td", class_="cabin_staff_service").parent if review.find("td", class_="cabin_staff_service") else None)
     review_dict["food and beverages"] = extract_ratings(review.find("td", class_="food_and_beverages").parent if review.find("td", class_="food_and_beverages") else None)
-    review_dict["value for money"] = extract_ratings(review.find("td", class_="value_for_money").parent if review.find("td", class_="food_and_beverages") else None)
+    review_dict["value for money"] = extract_ratings(review.find("td", class_="value_for_money").parent if review.find("td", class_="value_for_money") else None)
     review_dict["recommend"] = extract_sibling_text_or_default(review.find("td", class_="recommended"))
     
     
