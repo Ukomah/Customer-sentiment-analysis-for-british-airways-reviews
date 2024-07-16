@@ -46,3 +46,7 @@ Zero represents customers that did not provide a star review for each category
 ### `6. Insights and Recommendations`
 - **Key Findings:**
 - **Actionable Recommendations:**
+
+
+### `Note:`
+- After running `pip install -r requirements.txt`, restart your jupyter notebook.
