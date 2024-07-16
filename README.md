@@ -22,8 +22,23 @@ British Airways (BA) is the flag carrier airline of the United Kingdom (UK). Eve
 - **Method:** The Roberta sentiment analysis Pretrained Model from [HuggingFace](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment) was used in analysising the sentiment of each review
 - **Metrics:** The calculated sentiment scores of the positive, negative, neutral reviews was reviewed.
 
-### `5. Data Analysis and Visualization`
-- **Descriptive Statisitics:** 
+### 5. Data Analysis and Visualization
+- **Descriptive Statistics:** We were able to scrape 3822 reviews from [Skytrax](https://www.airlinequality.com/), which includes verified customers and non-verified customers. For the purpose of this project, we will only be using the 2013 verified customers to be sure that the data we have are genuine. 
+
+**Reviews from verified and non-verified customers.**
+![Descriptive Statistics](img/df_describe_output.png)
+
+**Reviews from verified customers only.**
+![Descriptive Statistics](img/df_describe_verified_output.png)
+
+**5-Star point ratings for verified customers**
+Zero represents customers that did not provide a star review for each category
+![Descriptive Statistics](img/point_review_BC.png)
+
+**Recommendation from verified customers**
+![Descriptive Statistics](img/recommendation_review_BC.png)
+
+
 - **Correlation Analysis:** The correlations between sentiment scores and review ratings were compared.
 - **Topic Modelling:** 
 - **Visualization:**
