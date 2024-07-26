@@ -38,6 +38,13 @@ Zero represents customers that did not provide a star review for each category
 **Recommendation from verified customers**
 ![Descriptive Statistics](img/recommendation_review_BC.png)
 
+**Top 15 Countries with the Highest Number of "No Recommendations"**
+![Descriptive Statistics](img/top_15_countries_with_no_in_recommendation.png)
+
+**Top 15 Aircrafts with the Highest Number of "No Recommendations"**
+![Descriptive Statistics](img/top_15_aircrafts_with_no_in_recommendation.png)
+
+
 
 - **Correlation Analysis:** The correlations between sentiment scores and review ratings were compared.
 - **Topic Modelling:** 
