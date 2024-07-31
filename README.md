@@ -44,14 +44,12 @@ Zero represents customers that did not provide a star review for each category
 **Top 15 Aircrafts with the Highest Number of "No Recommendations"**
 ![Descriptive Statistics](img/top_15_aircrafts_with_no_in_recommendation.png)
 
+**MTop 20 most frequent words in Reviews**
+![Descriptive Statistics](img/word_freq_result.png)
 
-
-- **Correlation Analysis:** The correlations between sentiment scores and review ratings were compared.
-- **Topic Modelling:** 
-- **Visualization:**
 
 ### `6. Insights and Recommendations`
-- **Key Findings:**
+- **Key Findings:** 
 - **Actionable Recommendations:**
 
 
