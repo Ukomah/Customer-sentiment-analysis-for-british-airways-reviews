@@ -48,7 +48,7 @@ Zero represents customers that did not provide a star review for each category
 ![Descriptive Statistics](img/word_freq_result.png)
 
 
-### `6. Insights and Recommendations`
+### `6. Insights`
 - **Key Findings:** Sentiment analysis, performed using the RoBERTa pretrained model, classified the reviews as 28.6% positive, 8.6% neutral, and 62.7% negative
 
 **Sentiment analysis result in percentage**

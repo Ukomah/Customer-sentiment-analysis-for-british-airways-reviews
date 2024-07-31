@@ -2,3 +2,6 @@ lxml==5.2.2
 nltk==3.8.1
 transformers
 ipywidgets
+streamlit==1.37.0
+wordcloud==1.9.3
+gensim
