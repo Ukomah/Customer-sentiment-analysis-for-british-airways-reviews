@@ -49,9 +49,17 @@ Zero represents customers that did not provide a star review for each category
 
 
 ### `6. Insights and Recommendations`
-- **Key Findings:** 
+- **Key Findings:** Sentiment analysis, performed using the RoBERTa pretrained model, classified the reviews as 28.6% positive, 8.6% neutral, and 62.7% negative
+
+**Sentiment analysis result in percentage**
+![Descriptive Statistics](img/sentiment_analysis_result.png)
 - **Actionable Recommendations:**
 
+**Positive World cloud**
+![Descriptive Statistics](img/pos_wordcloud.png)
+
+**Negative World cloud**
+![Descriptive Statistics](img/neg_wordcloud.png)
 
 ### `Note:`
 - After running `pip install -r requirements.txt`, restart your jupyter notebook.
