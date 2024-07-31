@@ -62,4 +62,5 @@ Zero represents customers that did not provide a star review for each category
 ![Descriptive Statistics](img/neg_wordcloud.png)
 
 ### `Note:`
-- After running `pip install -r requirements.txt`, restart your jupyter notebook.
+- To run the `ba_reviews_analysis.py`
+- Run `pip install -r requirements.txt`, restart your jupyter notebook and then start running the cells.
